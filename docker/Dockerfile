@@ -1,4 +1,4 @@
-FROM tensorflow/tensorflow:2.14.0-gpu
+FROM tensorflow/tensorflow:2.15.0-gpu
 
 RUN apt-get update
 RUN pip install --upgrade pip

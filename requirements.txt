@@ -1,7 +1,7 @@
-matplotlib~=3.6.3
-numpy~=1.24.3
-pandas~=1.5.3
-scikit-learn~=1.2.1
-tensorflow~=2.14.0
-tensorboard~=2.14.0
-jupyterlab~=3.6.3
+matplotlib~=3.10.0
+numpy~=1.26.2
+pandas~=2.2.3
+scikit-learn~=1.6.0
+tensorflow~=2.15.0
+tensorboard~=2.15.0
+jupyterlab~=4.3.4
