@@ -1,4 +1,3 @@
-version: '1'
 name: pendragon-ai-tensorflow
 services:
   tensorflow-jupyter-gpu:
